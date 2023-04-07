@@ -6,3 +6,4 @@
   </p>
 
 I'm a Frontend developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript.
+![](https://github.com/MahmoudAbuyousef/MahmoudAbuyousef/blob/main/frame_generic_dark.png)
