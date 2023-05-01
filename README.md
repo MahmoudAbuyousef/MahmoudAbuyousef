@@ -39,4 +39,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Portfolio](https://github.com/MahmoudAbuyousef/MahmoudAbuyousef/blob/main/frame_generic_dark.png)
+<br><br>
+![Portfolio](https://github.com/MahmoudAbuyousef/MyWebsite/blob/main/assets/images/full_page/dark.jpeg)
+![Portfolio](https://github.com/MahmoudAbuyousef/MyWebsite/blob/main/assets/images/full_page/light.jpeg)
