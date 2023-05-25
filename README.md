@@ -40,6 +40,3 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br><br>
-![Portfolio](https://github.com/MahmoudAbuyousef/MyWebsite/blob/main/assets/images/full_page/dark.jpeg)
-![Portfolio](https://github.com/MahmoudAbuyousef/MyWebsite/blob/main/assets/images/full_page/light.jpeg)
