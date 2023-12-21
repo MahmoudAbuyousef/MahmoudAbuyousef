@@ -35,6 +35,7 @@ print("========================================== Welcome To My Profile ========
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 ![React.Js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
 ![PugJs](https://img.shields.io/badge/-PugJs-05122A?style=flat&logo=Pug)&nbsp;
 ![Gulp.Js](https://img.shields.io/badge/-Gulp.Js-05122A?style=flat&logo=Gulp)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
