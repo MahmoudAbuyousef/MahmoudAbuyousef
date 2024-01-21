@@ -23,7 +23,9 @@ print("============================================ Welcome To My Profile ======
     <a href="mailto:mahmoudabuyoussef20@gmail.com">
         <img src="https://shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white"/>
     </a>
-
+</p>
+<p>
+    Contact Me: mahmoudabuyoussef20@gmail.com
 </p>
 
 ### 🛠 &nbsp;Tech Stack
