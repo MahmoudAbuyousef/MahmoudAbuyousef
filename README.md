@@ -1,5 +1,5 @@
 ```c
-print("========================================== Welcome To My Profile ============================================");
+print("============================================ Welcome To My Profile ============================================");
 ```
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <h1 align="center">
@@ -19,6 +19,9 @@ print("========================================== Welcome To My Profile ========
     </a>
     <a href="https://mahmoudabuyoussef.vercel.app/">
         <img src="https://img.shields.io/badge/WebSite-%eee?style=flat&logo=w3&logoColor=white"/>
+    </a>
+    <a href="mailto:mahmoudabuyoussef20@gmail.com">
+        <img src="https://shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white"/>
     </a>
 
 </p>
